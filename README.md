@@ -28,3 +28,32 @@
 [FocusBloom](https://github.com/JoelKanyi/FocusBloom) - A Kotlin Multiplatform app that helps users enhance their productivity and time management skills through focused work intervals and short breaks
 
 [KotlinConfGDGHelwan](https://github.com/qamarelsafadi/KotlinConfGDGHelwan) - KotlinConfGDGHelwan
+
+[NotesAppKMM](https://github.com/kamathis4/NotesAppKMM) - Simple Notes App with KMM Compose, Koin, Decompose and Coroutines
+
+[Image Viewer](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/imageviewer) - An application for capturing, viewing, and storing pictures. Includes support for maps. Uses Compose Multiplatform for the UI. Introduced at KotlinConf 2023.
+
+[NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP) - A KMP template of the New York Times App using Compose multiplatform for Android, Desktop, iOS and Web
+
+[DroidconKotlin](https://github.com/touchlab/DroidconKotlin) - Kotlin Multiplatfom app for Droidcon Events.
+
+
+[Chat](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/chat) - A demonstration of how to embed Compose Multiplatform components within a SwiftUI interface. The use case is online messaging.
+
+[Tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv.
+
+[FocusBloom](https://github.com/JoelKanyi/FocusBloom) - A Kotlin Multiplatform app that helps users enhance their productivity and time management skills through focused work intervals and short breaks.
+
+[RecipeApp](https://github.com/SEAbdulbasit/recipe-app) - Recipe App in Compose Multiplatform
+
+[Kotlin Multiplatform Mobile Sample](https://github.com/Kotlin/kmm-basic-sample) - Example of Kotlin multiplatform project by Jetbrains
+
+
+
+[KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab. A collection of code & tools designed to get your mobile team started quickly w/Kotlin Multiplatform - by TouchLab
+
+[Bookshelf](https://github.com/realm/realm-kotlin-samples/tree/main/Bookshelf) - A demonstration of how to use the Realm database in a Kotlin Multiplatform application.
+
+[D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample) - D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.
+
+[Notflix](https://github.com/VictorKabata/Notflix) - Kotlin Multiplatform playground
