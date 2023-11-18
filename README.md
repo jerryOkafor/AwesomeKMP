@@ -7,6 +7,14 @@
 
 ### Here is a list of some awesome KMP projects you may want to check out:
 
+[Pacemaker](https://github.com/sellmair/pacemaker) - App for monitoring a whole groups heart rate, notifying the whole group if one exceeds his personal limit
+
+[Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low-Energy
+
+[SensorTag](https://github.com/JuulLabs/sensortag) - Sample demonstrating use of Kable library with SensorTag device
+
+[MortyComposeKMM](https://github.com/joreilly/MortyComposeKMM) - GraphQL based Jetpack Compose and SwiftUI Kotlin Multiplatform project (using https://rickandmortyapi.com/graphql)
+
 [BikeShare](https://github.com/joreilly/BikeShare) - SwiftUI, Jetpack Compose, and Compose for Desktop based Kotlin Multiplatform project (using CityBikes
 
 [Fantasy Premier League](https://github.com/joreilly/FantasyPremierLeague) - Kotlin Multiplatform sample using Jetpack Compose and SwiftUI (and Realm for local persistence)
