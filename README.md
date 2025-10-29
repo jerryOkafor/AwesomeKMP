@@ -10,6 +10,7 @@
 </p>
 
 ### Here is a list of some awesome KMP projects you may want to check out:
+[Compose ur Pres](https://github.com/KodeinKoders/CuP) - A pure Kotlin Compose Multiplatform presentation system for developer presenters.
 
 [Pacemaker](https://github.com/sellmair/pacemaker) - App for monitoring a whole groups heart rate, notifying the whole group if one exceeds his personal limit
 
